@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1>Olá, eu sou o Ronaldo👋</h1>
 
 <!--
 **orlandoseven/orlandoseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>:school: Estudante do ultimo semestre do curso tecnologo Sistemas para Internet.</p>
