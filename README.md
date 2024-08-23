@@ -27,5 +27,13 @@ Here are some ideas to get you started:
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-
 </p>
+<h2>Estatísticas GitHub</h2>
+<div>
+<a href="https://github.com/orlandoseven">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandoseven&layout=compact&langs_count=7&theme=gruvbox"/>
+  
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=orlandoseven&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+
+</div>
+
