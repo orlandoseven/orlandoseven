@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>:Desenvolvedor Fron-end Jr</p>
+<p>💻Desenvolvedor Fron-end Jr</p>
 <p>:school: Formado em Sistemas para Internet.</p>
 <p>:soon: Em transição de carreira(da area grafica para area de TI.</p>
 <h2>Tecnologias e Ferramentas:</h2>
